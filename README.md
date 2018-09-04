@@ -5,3 +5,6 @@
 * [A Language-based Approach to Unifying Events and Threads](https://blog.acolyer.org/2014/12/11/a-language-based-approach-to-unifying-events-and-threads/)
 
 * [Goroutines, Nonblocking I/O, And Memory Usage](https://eklitzke.org/goroutines-nonblocking-io-and-memory-usage)
+
+* [What you should know to really understand the Node.js Event Loop](https://medium.com/the-node-js-collection/what-you-should-know-to-really-understand-the-node-js-event-loop-and-its-metrics-c4907b19da4c)
+* [StackOverflow: How is Node.js inherently faster when it still relies on Threads internally?](https://stackoverflow.com/questions/3629784/how-is-node-js-inherently-faster-when-it-still-relies-on-threads-internally)
